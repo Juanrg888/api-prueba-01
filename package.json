@@ -1,0 +1,12 @@
+{
+  "name": "api-prueba-01",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fastify": "^4.28.1",
+    "pg": "^8.11.3"
+  }
+}
